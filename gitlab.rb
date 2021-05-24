@@ -1,6 +1,6 @@
 # gitlab.rb
 
-external_url 'http://gitlab.pazhouhan.ir'
+external_url 'http://gitlab.mydomain.ir'
 registry_external_url 'http://registry.gitlab.local'
 
 # Disable services
